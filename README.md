@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makoho
 - 👀 I’m interested in creative coding, drawing generative art, and creating small applications that make life easier
-- 🌱 I’m currently learning how to sketch architecture
+- 🌱 I’m currently learning to play the piano
 - 📫 How to reach me: via computationalart.wordpress.com
 
 <!---
